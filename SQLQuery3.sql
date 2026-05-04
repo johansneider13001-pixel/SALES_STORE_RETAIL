@@ -135,3 +135,6 @@ FROM SALES_CLEANED
 GROUP BY Location
 ORDER BY total_ventas DESC;
 --Evalúa la participación en ventas de los diferentes canales o ubicaciones físicas/digitales.
+
+
+
